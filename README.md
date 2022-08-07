@@ -6,7 +6,7 @@
 
 |Desktop Version | Mobile Version|
 |----------------| ---------------|
-| <img src="./assets/PringTable.png" alt="" height="400px" > | <img src="https://github.com/LuccasAls/PricingTable/blob/main/assets/Pricing%20Table%20-%20Google%20Chrome%202022-08-07%2000-04-00.gif" alt="" height="400px">|
+| <img src="./assets/PringTable.png" alt="" height="375px" > | <img src="https://github.com/LuccasAls/PricingTable/blob/main/assets/Pricing%20Table%20-%20Google%20Chrome%202022-08-07%2000-04-00.gif" alt="" height="375px">|
 
 
 ## Sobre o projeto 
