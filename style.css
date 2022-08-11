@@ -16,6 +16,10 @@
     --page-background: #f9fbfc;
   }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 body {
     width: 100%;
     height: 100vh;
@@ -174,16 +178,16 @@ button {
     margin-left:auto;
     margin-right: auto;
     transition: all 0.2s ease-in-out;
-    transform: scale(0.9);
+    transform: scale(0.94);
     cursor: pointer;
     
 }
 
 button:hover {
    transform: scale(1);
-   background-color: #0044a4;
+   background: linear-gradient(45deg, #1b4aa2, #0e49af) ;
    color: white;
-   letter-spacing: 4px;
+   letter-spacing: 1px;
 }
 
 
